@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="16855" started-at="2020-08-13T10:02:08 IST" finished-at="2020-08-13T10:02:25 IST">
+  <suite name="Default suite" duration-ms="19723" started-at="2020-08-18T09:16:39 IST" finished-at="2020-08-18T09:16:58 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="16855" started-at="2020-08-13T10:02:08 IST" finished-at="2020-08-13T10:02:25 IST">
+    <test name="Default test" duration-ms="19723" started-at="2020-08-18T09:16:39 IST" finished-at="2020-08-18T09:16:58 IST">
       <class name="gitTest.GitTest">
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:gitTest.GitTest@133e16fd]" name="loginTest" duration-ms="16756" started-at="2020-08-13T10:02:08 IST" finished-at="2020-08-13T10:02:25 IST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:gitTest.GitTest@133e16fd]" name="loginTest" duration-ms="19680" started-at="2020-08-18T09:16:39 IST" finished-at="2020-08-18T09:16:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
