@@ -21,7 +21,7 @@ public class GitTest2 {
 		wd.findElement(By.name("q")).sendKeys("Tamilnadu");
 		wd.findElement(By.name("q")).submit();
 		System.out.println(wd.getTitle());
-		int i=1/0;
+	
 		File src=((TakesScreenshot)wd).getScreenshotAs(OutputType.FILE);
 		FileUtils.copyFile(src, new File("C:\\WORKSPACE\\A13_GitTest\\screenshot\\sample2.jpeg"));
 	
